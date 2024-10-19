@@ -16,7 +16,3 @@ This repository showcases my ability to tackle various tasks that reflect differ
 ## Technologies Used
 - HTML | CSS | JS
 
-## How to Run the Projects
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
