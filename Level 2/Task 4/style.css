@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+body{
+    transition: background-color 0.2s ease-in;
+}
+body.lightmode{
+    background-color: white;
+    color: black;
+}
+body.darkmode{
+    background-color: black;
+    color: white;
+}
+h2{
+    transition: 0.3s ease-in;
+}
+button{
+    width: 120px;
+    height: 30px;
+    text-align: center;
+    padding: 2px;
+    background-color: white;
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:medium;
+}
+button:hover{
+    cursor: pointer;
+}
